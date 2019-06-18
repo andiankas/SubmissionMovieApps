@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SubmissionMovieApps</string>
+    <string name="title_list">List</string>
+    <string name="title_grid">Grid</string>
+    <string name="title_with_cardview">With CardView</string>
+    <string name="sutradara">Sutradara</string>
+    <string name="rilis">Rilis</string>
+    <string name="genre">Genre</string>
+    <string name="durasi">Durasi</string>
+</resources>
